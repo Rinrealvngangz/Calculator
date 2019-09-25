@@ -1,0 +1,74 @@
+body{
+   background-size: cover;
+    background-image:url("2.jpg");
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+} 
+.main{
+    position: absolute;
+    top: 20%;
+    left: 38%;
+    
+} 
+.bt{
+    width: 70px;
+    height: 70px;
+    font-size: 25px;
+    color: black;
+    font-family:sans-serif;
+    background-color:white;
+    border: #333333;
+    border: 1px,solid;
+}
+
+.bt:hover{
+    background-color:#CCCCCC;
+    transition:0.5s;
+}
+
+ #xam{
+    background-color:#DDDDDD;
+}
+#xam:hover{
+    background-color: #CCCCCC;
+    transition:0.5s;
+}
+#cam{
+    background-color:#FF9900;
+    
+
+}
+ #cam:hover{
+     border: 2px solid;
+   border-color: black;
+    background-color:#CC6600;
+    transition:0.5s;
+    
+}
+
+#hai{
+
+    width: 140px;
+}
+.display{
+    width: 285px;
+    height: 70px;
+    background-color: #333333;
+    color: white;
+    font-size: 50px;
+    font-family:sans-serif;
+    border: 1px solid;
+    
+}
+#cam1{
+    background-color:#FF9900;
+   
+}
+#cam1:hover{
+    background-color:#CC6600;
+    transition:0.5s;
+    
+}
